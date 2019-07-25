@@ -1,0 +1,15 @@
+matplotlib.pyplot
+sklearn
+joblib
+pickle
+os
+python_speech_features
+scipy
+pydub
+numpy
+pandas
+librosa
+soundfile
+re
+flask
+flask_cors
